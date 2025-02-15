@@ -4,4 +4,4 @@ Do DOd dod
 
 hohohohoh
 
-Conflict string
++++++ New String +++++
