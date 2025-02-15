@@ -1,15 +1,10 @@
-<<<<<<< HEAD
+
 New Text
 MOre Text
-=======
+
 Some text from Git
->>>>>>> ce4ced4c0074245e3d14b2093e0df5b762bfd6c0
-<<<<<<< Updated upstream
+
 Change text
 <<<<<<< HEAD
-add new string 
-=======
-=======
+add new stri
 Some String add for test
->>>>>>> Stashed changes
->>>>>>> 19363e7 (change in here)
