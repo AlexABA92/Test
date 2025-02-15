@@ -5,6 +5,6 @@ MOre Text
 Some text from Git
 
 Change text
-<<<<<<< HEAD
+
 add new stri
 Some String add for test
