@@ -5,3 +5,4 @@ MOre Text
 Some text from Git
 >>>>>>> ce4ced4c0074245e3d14b2093e0df5b762bfd6c0
 Change text
+add new string 
