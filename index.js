@@ -1,5 +1,5 @@
 let concat = (a, b) => {
-	a + ' = ' + b
+	return a + b
 }
 
 alert(concat('some', 'more'))
