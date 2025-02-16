@@ -1,6 +1,4 @@
-let concat = (a, b) => {
-	return a + b
-}
+let concat = (a, b) => a + b
 
 alert(concat('some', 'more'))
 
